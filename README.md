@@ -41,4 +41,3 @@ python train.py --predict-only
 
 ## Performance Snapshot
 
-![alt text](image.png)
