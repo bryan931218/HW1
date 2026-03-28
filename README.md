@@ -1,4 +1,4 @@
-# Visual Recognition HW1
+# CV2026 HW1
 
 ## Introduction
 
